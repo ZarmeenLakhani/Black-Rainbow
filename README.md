@@ -1,4 +1,5 @@
 Work in Progress...
 <p>
-Half way through the deployment of my website.
+Meanwhile, you can read an amazing book : "Flowers For Algernon" by Daniel Keyes. 
+  
 
