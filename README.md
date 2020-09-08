@@ -1,3 +1,4 @@
-#Work in Progress. 
+Work in Progress...
+<p>
 Half way through the deployment of my website.
 
